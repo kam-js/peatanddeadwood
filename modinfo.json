@@ -1,7 +1,7 @@
 {
     "type": "content",
     "modid": "peatanddeadwood",
-    "name": "Peat & Deadwood",
+    "name": "Immersive Firewood: Peat & Deadwood",
     "description": "Dug peat seasons in place over two months into a cool, very long-burning fuel - the banked-fire counterpart to Immersive Firewood's hot, year-seasoned wood. Adds fallen deadwood logs for day-one scavenging, restores driftwood splitting, and gives Immersive Firewood per-species seasoning times. Recommends Drying Speed Overhaul.",
     "authors": ["kamro"],
     "version": "0.1.0",

@@ -1,6 +1,6 @@
-# Peat & Deadwood
+# Immersive Firewood: Peat & Deadwood
 
-A companion mod to [Immersive Firewood](https://mods.vintagestory.at/vsfirewood) for Vintage Story 1.22.x.
+A companion mod (modid `peatanddeadwood`) to [Immersive Firewood](https://mods.vintagestory.at/vsfirewood) for Vintage Story 1.22.x.
 
 Immersive Firewood already does per-log wood seasoning well. This mod adds the pieces it has no equivalent for:
 
