@@ -1,0 +1,35 @@
+[
+	{
+		ingredientPattern: "A	L",
+		ingredients: {
+			"A": { type: "item", tags: ["tool-axe"], isTool: true },
+			"L": { type: "block", code: "game:flotsam-driftwood-1" }
+		},
+		recipeGroup: 2,
+		width: 1,
+		height: 2,
+		output: { type: "item", code: "peatanddeadwood:deadwood", quantity: 1 }
+	},
+	{
+		ingredientPattern: "A	L",
+		ingredients: {
+			"A": { type: "item", tags: ["tool-axe"], isTool: true },
+			"L": { type: "block", code: "game:flotsam-driftwood-2" }
+		},
+		recipeGroup: 2,
+		width: 1,
+		height: 2,
+		output: { type: "item", code: "peatanddeadwood:deadwood", quantity: 1 }
+	},
+	{
+		ingredientPattern: "A	L",
+		ingredients: {
+			"A": { type: "item", tags: ["tool-axe"], isTool: true },
+			"L": { type: "block", code: "game:flotsam-driftwood-3" }
+		},
+		recipeGroup: 2,
+		width: 1,
+		height: 2,
+		output: { type: "item", code: "peatanddeadwood:deadwood", quantity: 3 }
+	}
+]

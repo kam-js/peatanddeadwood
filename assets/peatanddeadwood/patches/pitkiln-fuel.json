@@ -1,0 +1,27 @@
+[
+    {
+        "op": "add",
+        "file": "game:blocktypes/wood/pitkiln.json",
+        "path": "/attributes/buildMats/fuel/-",
+        "value": {
+            "type": "block",
+            "code": "peatanddeadwood:peat-dried",
+            "quantity": 1,
+            "eleCode": "Coal",
+            "textureCodeReplace": { "from": "coal", "to": "peat" },
+            "burnTimeHours": 16
+        }
+    },
+    {
+        "op": "add",
+        "file": "game:blocktypes/wood/pitkiln.json",
+        "path": "/attributes/buildMats/fuel/-",
+        "value": {
+            "type": "item",
+            "code": "peatanddeadwood:deadwood",
+            "quantity": 1,
+            "eleCode": "Logs",
+            "burnTimeHours": 22
+        }
+    }
+]

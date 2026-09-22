@@ -1,0 +1,74 @@
+[
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/kapok-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 864
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/redwood-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 1728
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/baldcypress-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 1728
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/pine-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 1944
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/larch-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 2160
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/walnut-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 2160
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/birch-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 2376
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/oak-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 2592
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/maple-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 2592
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/acacia-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 3024
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/purpleheart-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 3240
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/ebony-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 3888
+	}
+]

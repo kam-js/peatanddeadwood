@@ -1,0 +1,53 @@
+{
+	code: "deadwood",
+	class: "ItemFirewood",
+	maxstacksize: 32,
+	behaviors: [{
+		name: "GroundStorable",
+		properties: {
+			layout: 'Stacking',
+			placeRemoveSound: "game:block/planks",
+			stackingModel: 'game:block/wood/firewoodpile',
+			modelItemsToStackSizeRatio: 0.5,
+			upSolid: true,
+			stackingCapacity: 32,
+			transferQuantity: 2,
+			bulkTransferQuantity: 8,
+			collisionBox: { x1: 0, y1: 0, z1: 0, x2: 1, y2: 0.25, z2: 1 },
+			cbScaleYByLayer: 0.125,
+			burnHoursPerItem: 0.35
+		}
+	}],
+	attributes: {
+		firepitConstructable: true,
+		isClayOvenFuel: true,
+		placeSound: "game:block/planks"
+	},
+	shape: { base: "game:item/firewood" },
+	textures: {
+		bark: { base: "game:block/wood/bark/dead/pine" }
+	},
+	creativeinventory: { "general": ["*"], "items": ["*"] },
+	guiTransform: {
+		translation: { x: 3, y: 0, z: 0 },
+		rotation: { x: -22.5, y: -44.6875, z: 90 },
+		origin: { x: 0.43, y: 0.43, z: 0.5 },
+		scale: 1.45
+	},
+	combustibleProps: {
+		burnTemperature: 500,
+		burnDuration: 28,
+		smokeLevel: 3
+	},
+	materialDensity: 450,
+	groundTransform: {
+		translation: { x: 0, y: 0, z: 0 },
+		rotation: { x: 0, y: 0, z: 0 },
+		origin: { x: 0.5, y: 0.37, z: 0.5 },
+		scale: 4
+	},
+	tpHandTransform: {
+		translation: { x: -1.1, y: -1, z: -0.8 },
+		scale: 0.5
+	}
+}

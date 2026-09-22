@@ -1,0 +1,23 @@
+[
+	{
+		// Fallen deadwood logs, sparse in any forest
+		blockCodes: ["peatanddeadwood:deadwoodlog-*"],
+		minTemp: -20,
+		minRain: 0.3,
+		minForest: 0.25,
+		quantity: { avg: 1, var: 0 },
+		chance: 8,
+		placement: "UnderTrees"
+	},
+	{
+		// Bonus deadwood in cold/boreal forest, stacks on top of the general entry
+		blockCodes: ["peatanddeadwood:deadwoodlog-*"],
+		minTemp: -20,
+		maxTemp: 6,
+		minRain: 0.3,
+		minForest: 0.2,
+		quantity: { avg: 1, var: 0 },
+		chance: 8,
+		placement: "UnderTrees"
+	}
+]
