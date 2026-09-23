@@ -21,7 +21,12 @@
         mapColorCode: "settlement",
         placeSound: "game:block/dirt",
         inContainerTexture: { base: "game:block/soil/peat" },
-        isClayOvenFuel: true
+        isClayOvenFuel: true,
+        handbook: {
+            extraSections: [
+                { title: "peatanddeadwood-handbook-peat-title", text: "peatanddeadwood-handbook-peat-text" }
+            ]
+        }
     },
     shape: { base: "game:block/peatbrick" },
     shapeinventory: { base: "game:block/peatbrick" },
@@ -39,9 +44,9 @@
     },
     maxStackSize: 32,
     combustibleProps: {
-        burnTemperature: 475,
-        burnDuration: 120,
-        smokeLevel: 2,
+        burnTemperature: 145,
+        burnDuration: 60,
+        smokeLevel: 3,
     },
     guiTransform: {
         origin: { x: 0.5, y: 0.125, z: 0.5 },

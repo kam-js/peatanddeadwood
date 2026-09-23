@@ -4,5 +4,8 @@
     "block-deadwoodlog-north": "Deadwood Log",
     "block-deadwoodlog-east": "Deadwood Log",
     "block-deadwoodlog-south": "Deadwood Log",
-    "block-deadwoodlog-west": "Deadwood Log"
+    "block-deadwoodlog-west": "Deadwood Log",
+
+    "peatanddeadwood-handbook-peat-title": "Peat: Heat Without a Kitchen",
+    "peatanddeadwood-handbook-peat-text": "Peat burns cool. Dried peat tops out at 145°C and fresh peat at 95°C - both are far below what meat, fish, poultry or bread need to cook, and fresh peat cannot even bring a pot to a boil. This is not a bug: the same number that sets how hot a fire burns also stands in for how clean it burns, and peat is a smoky, sooty fuel that never gets hot enough to cook flesh at any tech level. Vegetable and grain dishes still cook in a pot, just slower than on wood. A clay oven is unaffected by fuel temperature, so peat bakes bread there exactly as well as anything else. What peat is good for: heating a room, and doing it for a very long time from cheap, dug-up bulk fuel. Season a summer's digging in a shed and you will never run short of warmth - just don't expect dinner from it."
 }

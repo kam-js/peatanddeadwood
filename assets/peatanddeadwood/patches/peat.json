@@ -4,8 +4,8 @@
         "file": "game:blocktypes/soil/peatbrick.json",
         "path": "/combustibleProps",
         "value": {
-            "burnTemperature": 300,
-            "burnDuration": 30,
+            "burnTemperature": 95,
+            "burnDuration": 25,
             "smokeLevel": 3
         }
     },
@@ -17,7 +17,7 @@
             {
                 "type": "Dry",
                 "freshHours": { "avg": 0 },
-                "transitionHours": { "avg": 432 },
+                "transitionHours": { "avg": 864 },
                 "transitionedStack": { "type": "block", "code": "peatanddeadwood:peat-dried" },
                 "transitionRatio": 1
             }

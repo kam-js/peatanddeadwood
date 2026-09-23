@@ -23,5 +23,11 @@
             "eleCode": "Logs",
             "burnTimeHours": 22
         }
+    },
+    {
+        "op": "replace",
+        "file": "game:blocktypes/wood/pitkiln.json",
+        "path": "/attributes/buildMats/fuel/1/burnTimeHours",
+        "value": 24
     }
 ]

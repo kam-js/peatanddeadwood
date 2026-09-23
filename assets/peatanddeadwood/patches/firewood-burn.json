@@ -1,0 +1,1946 @@
+[
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/kapok-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 725
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/kapok-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 20
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/kapok-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 1045
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/kapok-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 10
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/kapok-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 405
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/kapok-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 8
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/empresstree-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 715
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/empresstree-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 22
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/empresstree-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 1030
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/empresstree-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 11
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/empresstree-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 395
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/empresstree-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 8
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/spurgetree-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 710
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/spurgetree-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 24
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/spurgetree-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 1025
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/spurgetree-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 12
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/spurgetree-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 395
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/spurgetree-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 9
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/tuja-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 745
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/tuja-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 24
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/tuja-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 1075
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/tuja-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 12
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/tuja-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 415
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/tuja-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 9
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/catalpa-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 685
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/catalpa-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 33
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/catalpa-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 990
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/catalpa-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 17
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/catalpa-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 380
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/catalpa-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 13
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/linden-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 680
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/linden-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 35
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/linden-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 980
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/linden-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 18
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/linden-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 380
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/linden-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 13
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/spruce-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 720
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/spruce-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 33
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/spruce-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 1040
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/spruce-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 17
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/spruce-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 400
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/spruce-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 13
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/fir-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 715
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/fir-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 36
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/fir-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 1030
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/fir-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 18
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/fir-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 395
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/fir-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 14
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/poplar-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 675
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/poplar-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 38
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/poplar-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 975
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/poplar-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 19
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/poplar-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 375
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/poplar-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 15
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/redwood-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 715
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/redwood-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 36
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/redwood-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 1030
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/redwood-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 18
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/redwood-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 395
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/redwood-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 14
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/willow-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 675
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/willow-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 38
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/willow-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 975
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/willow-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 19
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/willow-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 375
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/willow-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 15
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/baldcypress-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 710
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/baldcypress-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 39
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/baldcypress-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 1025
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/baldcypress-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 20
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/baldcypress-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 395
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/baldcypress-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 15
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/horsechestnut-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 665
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/horsechestnut-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 43
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/horsechestnut-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 960
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/horsechestnut-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 22
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/horsechestnut-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 370
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/horsechestnut-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 17
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/pine-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 705
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/pine-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 40
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/pine-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 1020
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/pine-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 20
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/pine-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 390
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/pine-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 15
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/bluemahoe-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 665
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/bluemahoe-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 45
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/bluemahoe-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 960
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/bluemahoe-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 23
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/bluemahoe-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 370
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/bluemahoe-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 17
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/douglasfir-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 700
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/douglasfir-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 43
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/douglasfir-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 1010
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/douglasfir-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 22
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/douglasfir-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 390
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/douglasfir-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 17
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/ginkgo-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 660
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/ginkgo-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 46
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/ginkgo-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 955
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/ginkgo-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 23
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/ginkgo-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 365
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/ginkgo-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 18
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/redcedar-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 700
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/redcedar-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 43
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/redcedar-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 1010
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/redcedar-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 22
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/redcedar-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 390
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/redcedar-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 17
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/banyan-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 660
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/banyan-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 47
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/banyan-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 955
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/banyan-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 24
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/banyan-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 365
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/banyan-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 18
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/kauri-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 700
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/kauri-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 45
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/kauri-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 1010
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/kauri-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 23
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/kauri-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 390
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/kauri-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 17
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/cedar-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 695
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/cedar-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 46
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/cedar-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 1005
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/cedar-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 23
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/cedar-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 385
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/cedar-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 18
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/charred-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 655
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/charred-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 49
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/charred-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 945
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/charred-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 25
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/charred-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 365
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/charred-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 19
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/elm-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 655
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/elm-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 49
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/elm-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 945
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/elm-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 25
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/elm-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 365
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/elm-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 19
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/larch-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 690
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/larch-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 49
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/larch-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 995
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/larch-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 25
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/larch-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 385
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/larch-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 19
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/sycamore-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 655
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/sycamore-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 51
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/sycamore-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 945
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/sycamore-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 26
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/sycamore-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 365
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/sycamore-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 20
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/tamanu-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 650
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/tamanu-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 53
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/tamanu-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 940
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/tamanu-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 27
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/tamanu-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 360
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/tamanu-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 20
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/mahogany-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 650
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/mahogany-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 53
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/mahogany-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 940
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/mahogany-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 27
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/mahogany-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 360
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/mahogany-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 20
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/walnut-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 650
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/walnut-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 53
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/walnut-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 940
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/walnut-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 27
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/walnut-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 360
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/walnut-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 20
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/birch-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 645
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/birch-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 57
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/birch-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 930
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/birch-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 29
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/birch-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 360
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/birch-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 22
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/sapele-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 645
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/sapele-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 57
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/sapele-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 930
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/sapele-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 29
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/sapele-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 360
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/sapele-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 22
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/ash-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 645
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/ash-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 59
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/ash-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 930
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/ash-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 30
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/ash-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 360
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/ash-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 23
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/yew-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 680
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/yew-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 57
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/yew-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 980
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/yew-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 29
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/yew-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 380
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/yew-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 22
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/honeylocust-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 640
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/honeylocust-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 61
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/honeylocust-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 925
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/honeylocust-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 31
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/honeylocust-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 355
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/honeylocust-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 23
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/oak-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 640
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/oak-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 62
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/oak-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 925
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/oak-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 31
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/oak-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 355
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/oak-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 24
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/maple-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 640
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/maple-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 63
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/maple-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 925
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/maple-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 32
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/maple-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 355
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/maple-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 24
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/beech-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 640
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/beech-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 64
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/beech-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 925
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/beech-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 32
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/beech-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 355
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/beech-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 25
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/umnini-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 640
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/umnini-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 64
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/umnini-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 925
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/umnini-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 32
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/umnini-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 355
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/umnini-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 25
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/satinash-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 635
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/satinash-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 68
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/satinash-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 915
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/satinash-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 34
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/satinash-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 355
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/satinash-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 26
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/ghostgum-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 630
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/ghostgum-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 71
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/ghostgum-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 910
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/ghostgum-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 36
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/ghostgum-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 350
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/ghostgum-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 27
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/acacia-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 630
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/acacia-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 72
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/acacia-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 910
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/acacia-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 36
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/acacia-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 350
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/acacia-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 28
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/dalbergia-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 630
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/dalbergia-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 72
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/dalbergia-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 910
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/dalbergia-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 36
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/dalbergia-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 350
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/dalbergia-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 28
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/eucalyptus-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 630
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/eucalyptus-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 72
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/eucalyptus-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 910
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/eucalyptus-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 36
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/eucalyptus-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 350
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/eucalyptus-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 28
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/ohia-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 630
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/ohia-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 74
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/ohia-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 910
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/ohia-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 37
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/ohia-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 350
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/ohia-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 28
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/bearnut-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 625
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/bearnut-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 76
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/bearnut-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 905
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/bearnut-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 38
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/bearnut-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 345
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/bearnut-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 29
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/purpleheart-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 625
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/purpleheart-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 78
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/purpleheart-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 905
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/purpleheart-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 39
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/purpleheart-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 345
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/purpleheart-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 30
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/rosewood-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 625
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/rosewood-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 80
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/rosewood-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 905
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/rosewood-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 40
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/rosewood-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 345
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/rosewood-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 31
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/mangrove-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 620
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/mangrove-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 83
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/mangrove-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 895
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/mangrove-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 42
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/mangrove-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 345
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/mangrove-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 32
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/sal-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 620
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/sal-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 85
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/sal-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 895
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/sal-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 43
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/sal-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 345
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/sal-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 33
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/tigerwood-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 610
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/tigerwood-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 95
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/tigerwood-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 880
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/tigerwood-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 48
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/tigerwood-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 340
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/tigerwood-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 37
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/azobe-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 610
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/azobe-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 101
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/azobe-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 880
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/azobe-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 51
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/azobe-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 340
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/azobe-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 39
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/saxaul-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 605
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/saxaul-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 104
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/saxaul-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 875
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/saxaul-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 52
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/saxaul-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 335
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/saxaul-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 40
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/ebony-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 600
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/ebony-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 114
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/ebony-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 865
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/ebony-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 57
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/ebony-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 335
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/ebony-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 44
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/leadwood-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 600
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/leadwood-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 114
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/leadwood-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 865
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/leadwood-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 57
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/leadwood-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 335
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/leadwood-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 44
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/guajacum-firewood.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 595
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/guajacum-firewood.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 123
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/guajacum-firewood-kilndried.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 860
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/guajacum-firewood-kilndried.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 62
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/guajacum-firewood-wet.json",
+        "path": "/combustibleProps/burnTemperature",
+        "value": 330
+    },
+    {
+        "op": "replace",
+        "file": "vsfirewood:itemtypes/bdtree-compat/guajacum-firewood-wet.json",
+        "path": "/combustibleProps/burnDuration",
+        "value": 47
+    }
+]
