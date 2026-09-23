@@ -29,13 +29,5 @@
         "file": "game:blocktypes/wood/pitkiln.json",
         "path": "/attributes/buildMats/fuel/1/burnTimeHours",
         "value": 24
-    },
-    {
-        "op": "add",
-        "file": "game:blocktypes/wood/pitkiln.json",
-        "path": "/attributes/handbook/extraSections",
-        "value": [
-            { "title": "peatanddeadwood-handbook-pitkiln-title", "text": "peatanddeadwood-handbook-pitkiln-text" }
-        ]
     }
 ]
