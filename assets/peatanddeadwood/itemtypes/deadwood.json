@@ -21,7 +21,12 @@
 	attributes: {
 		firepitConstructable: true,
 		isClayOvenFuel: true,
-		placeSound: "game:block/planks"
+		placeSound: "game:block/planks",
+		handbook: {
+			extraSections: [
+				{ title: "peatanddeadwood-handbook-preheat-title", text: "peatanddeadwood-handbook-preheat-text" }
+			]
+		}
 	},
 	shape: { base: "game:item/firewood" },
 	textures: {

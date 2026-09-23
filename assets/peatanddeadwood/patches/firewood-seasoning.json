@@ -70,5 +70,257 @@
 		"file": "vsfirewood:itemtypes/ebony-firewood-wet.json",
 		"path": "/transitionableProps/0/transitionHours/avg",
 		"value": 3888
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/bdtree-compat/empresstree-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 1080
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/bdtree-compat/spurgetree-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 1296
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/bdtree-compat/tuja-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 1296
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/bdtree-compat/catalpa-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 1512
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/bdtree-compat/linden-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 1512
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/bdtree-compat/spruce-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 1512
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/bdtree-compat/fir-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 1728
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/bdtree-compat/poplar-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 1728
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/bdtree-compat/willow-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 1728
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/bdtree-compat/horsechestnut-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 1944
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/bdtree-compat/bluemahoe-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 1944
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/bdtree-compat/douglasfir-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 1944
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/bdtree-compat/ginkgo-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 1944
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/bdtree-compat/redcedar-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 1944
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/bdtree-compat/banyan-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 1944
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/bdtree-compat/kauri-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 1944
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/bdtree-compat/cedar-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 2160
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/bdtree-compat/charred-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 2160
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/bdtree-compat/elm-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 2160
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/bdtree-compat/sycamore-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 2160
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/bdtree-compat/tamanu-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 2160
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/bdtree-compat/mahogany-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 2160
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/bdtree-compat/sapele-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 2376
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/bdtree-compat/ash-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 2376
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/bdtree-compat/yew-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 2376
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/bdtree-compat/honeylocust-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 2592
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/bdtree-compat/beech-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 2592
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/bdtree-compat/umnini-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 2592
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/bdtree-compat/satinash-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 2808
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/bdtree-compat/ghostgum-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 2808
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/bdtree-compat/dalbergia-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 2808
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/bdtree-compat/eucalyptus-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 2808
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/bdtree-compat/ohia-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 3024
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/bdtree-compat/bearnut-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 3024
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/bdtree-compat/rosewood-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 3024
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/bdtree-compat/mangrove-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 3240
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/bdtree-compat/sal-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 3240
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/bdtree-compat/tigerwood-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 3672
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/bdtree-compat/azobe-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 3672
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/bdtree-compat/saxaul-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 3888
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/bdtree-compat/leadwood-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 4104
+	},
+	{
+		"op": "replace",
+		"file": "vsfirewood:itemtypes/bdtree-compat/guajacum-firewood-wet.json",
+		"path": "/transitionableProps/0/transitionHours/avg",
+		"value": 4104
 	}
 ]

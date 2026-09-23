@@ -1,0 +1,158 @@
+[
+    {
+        "op": "replace",
+        "file": "game:blocktypes/wood/woodtyped/log.json",
+        "path": "/combustiblePropsByType/log-*-kapok-*/burnTemperature",
+        "value": 250
+    },
+    {
+        "op": "add",
+        "file": "game:blocktypes/wood/woodtyped/log.json",
+        "path": "/combustiblePropsByType/log-*-kapok-*/smokeLevel",
+        "value": 4
+    },
+    {
+        "op": "replace",
+        "file": "game:blocktypes/wood/woodtyped/log.json",
+        "path": "/combustiblePropsByType/log-*-pine-*/burnTemperature",
+        "value": 250
+    },
+    {
+        "op": "add",
+        "file": "game:blocktypes/wood/woodtyped/log.json",
+        "path": "/combustiblePropsByType/log-*-pine-*/smokeLevel",
+        "value": 4
+    },
+    {
+        "op": "replace",
+        "file": "game:blocktypes/wood/woodtyped/log.json",
+        "path": "/combustiblePropsByType/log-*-redwood-*/burnTemperature",
+        "value": 250
+    },
+    {
+        "op": "add",
+        "file": "game:blocktypes/wood/woodtyped/log.json",
+        "path": "/combustiblePropsByType/log-*-redwood-*/smokeLevel",
+        "value": 4
+    },
+    {
+        "op": "replace",
+        "file": "game:blocktypes/wood/woodtyped/log.json",
+        "path": "/combustiblePropsByType/log-*-baldcypress-*/burnTemperature",
+        "value": 250
+    },
+    {
+        "op": "add",
+        "file": "game:blocktypes/wood/woodtyped/log.json",
+        "path": "/combustiblePropsByType/log-*-baldcypress-*/smokeLevel",
+        "value": 4
+    },
+    {
+        "op": "replace",
+        "file": "game:blocktypes/wood/woodtyped/log.json",
+        "path": "/combustiblePropsByType/log-*-walnut-*/burnTemperature",
+        "value": 250
+    },
+    {
+        "op": "add",
+        "file": "game:blocktypes/wood/woodtyped/log.json",
+        "path": "/combustiblePropsByType/log-*-walnut-*/smokeLevel",
+        "value": 4
+    },
+    {
+        "op": "replace",
+        "file": "game:blocktypes/wood/woodtyped/log.json",
+        "path": "/combustiblePropsByType/log-*-larch-*/burnTemperature",
+        "value": 250
+    },
+    {
+        "op": "add",
+        "file": "game:blocktypes/wood/woodtyped/log.json",
+        "path": "/combustiblePropsByType/log-*-larch-*/smokeLevel",
+        "value": 4
+    },
+    {
+        "op": "replace",
+        "file": "game:blocktypes/wood/woodtyped/log.json",
+        "path": "/combustiblePropsByType/log-*-birch-*/burnTemperature",
+        "value": 250
+    },
+    {
+        "op": "add",
+        "file": "game:blocktypes/wood/woodtyped/log.json",
+        "path": "/combustiblePropsByType/log-*-birch-*/smokeLevel",
+        "value": 4
+    },
+    {
+        "op": "replace",
+        "file": "game:blocktypes/wood/woodtyped/log.json",
+        "path": "/combustiblePropsByType/log-*-maple-*/burnTemperature",
+        "value": 250
+    },
+    {
+        "op": "add",
+        "file": "game:blocktypes/wood/woodtyped/log.json",
+        "path": "/combustiblePropsByType/log-*-maple-*/smokeLevel",
+        "value": 4
+    },
+    {
+        "op": "replace",
+        "file": "game:blocktypes/wood/woodtyped/log.json",
+        "path": "/combustiblePropsByType/log-*-acacia-*/burnTemperature",
+        "value": 250
+    },
+    {
+        "op": "add",
+        "file": "game:blocktypes/wood/woodtyped/log.json",
+        "path": "/combustiblePropsByType/log-*-acacia-*/smokeLevel",
+        "value": 4
+    },
+    {
+        "op": "replace",
+        "file": "game:blocktypes/wood/woodtyped/log.json",
+        "path": "/combustiblePropsByType/log-*-oak-*/burnTemperature",
+        "value": 250
+    },
+    {
+        "op": "add",
+        "file": "game:blocktypes/wood/woodtyped/log.json",
+        "path": "/combustiblePropsByType/log-*-oak-*/smokeLevel",
+        "value": 4
+    },
+    {
+        "op": "replace",
+        "file": "game:blocktypes/wood/woodtyped/log.json",
+        "path": "/combustiblePropsByType/log-*-purpleheart-*/burnTemperature",
+        "value": 250
+    },
+    {
+        "op": "add",
+        "file": "game:blocktypes/wood/woodtyped/log.json",
+        "path": "/combustiblePropsByType/log-*-purpleheart-*/smokeLevel",
+        "value": 4
+    },
+    {
+        "op": "replace",
+        "file": "game:blocktypes/wood/woodtyped/log.json",
+        "path": "/combustiblePropsByType/log-*-ebony-*/burnTemperature",
+        "value": 250
+    },
+    {
+        "op": "add",
+        "file": "game:blocktypes/wood/woodtyped/log.json",
+        "path": "/combustiblePropsByType/log-*-ebony-*/smokeLevel",
+        "value": 4
+    },
+    {
+        "op": "replace",
+        "file": "game:blocktypes/wood/woodtyped/log.json",
+        "path": "/combustiblePropsByType/*/burnTemperature",
+        "value": 250
+    },
+    {
+        "op": "add",
+        "file": "game:blocktypes/wood/woodtyped/log.json",
+        "path": "/combustiblePropsByType/*/smokeLevel",
+        "value": 4
+    }
+]
