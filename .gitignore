@@ -1,3 +1,6 @@
 *:Zone.Identifier
 /dist/
+/build/
 fuel-mod-plan.md
+bin/
+obj/
