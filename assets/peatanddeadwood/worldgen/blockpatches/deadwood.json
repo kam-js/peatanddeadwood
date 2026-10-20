@@ -6,7 +6,7 @@
 		minRain: 0.3,
 		minForest: 0.25,
 		quantity: { avg: 1, var: 0 },
-		chance: 24,
+		chance: 16,
 		placement: "UnderTrees"
 	},
 	{
@@ -17,7 +17,7 @@
 		minRain: 0.3,
 		minForest: 0.2,
 		quantity: { avg: 1, var: 0 },
-		chance: 12,
+		chance: 10,
 		placement: "UnderTrees"
 	}
 ]
