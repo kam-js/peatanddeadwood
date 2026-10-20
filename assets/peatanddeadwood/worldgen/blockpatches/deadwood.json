@@ -1,12 +1,12 @@
 [
 	{
-		// Fallen deadwood logs, sparse in any forest
+		// Fallen deadwood logs, occasional in any forest
 		blockCodes: ["peatanddeadwood:deadwoodlog-*"],
 		minTemp: -20,
 		minRain: 0.3,
 		minForest: 0.25,
 		quantity: { avg: 1, var: 0 },
-		chance: 8,
+		chance: 10,
 		placement: "UnderTrees"
 	},
 	{

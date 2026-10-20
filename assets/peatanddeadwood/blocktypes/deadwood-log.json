@@ -22,12 +22,12 @@
 	replaceable: 500,
 	resistance: 3,
 	sounds: {
-		"place": "block/planks",
-		"walk": "walk/wood",
-		"hit": "block/planks",
-		"break": "block/planks",
+		"place": "game:block/planks",
+		"walk": "game:walk/wood",
+		"hit": "game:block/planks",
+		"break": "game:block/planks",
 		byTool: {
-			"Axe": { hit: "block/chop", break: "block/planks" }
+			"Axe": { hit: "game:block/chop", break: "game:block/planks" }
 		}
 	},
 	selectionboxByType: {
