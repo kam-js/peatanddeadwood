@@ -2,6 +2,8 @@
 	code: "deadwood",
 	class: "ItemFirewood",
 	maxstacksize: 32,
+	// Immersive Firewood's tag, so deadwood works in its firewood crafting recipes
+	tags: ["firewood"],
 	behaviors: [{
 		name: "GroundStorable",
 		properties: {
