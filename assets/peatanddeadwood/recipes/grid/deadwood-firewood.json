@@ -1,0 +1,13 @@
+[
+	{
+		// Mirrors Immersive Firewood's vanilla-firewood-conversion, which only matches its own vsfirewood:* items
+		ingredientPattern: "A	B",
+		ingredients: {
+			"A": { type: "item", tags: ["tool-knife"], isTool: true },
+			"B": { type: "item", code: "peatanddeadwood:deadwood" }
+		},
+		width: 1,
+		height: 2,
+		output: { type: "item", code: "game:firewood", quantity: 1 }
+	}
+]
